@@ -1,0 +1,1 @@
+V1.7: se corrige la ruta inicial. Subí los 5 archivos juntos a la RAÍZ del repositorio, reemplazando los anteriores; eliminá configuraciones antiguas incompatibles. En Vercel: Root Directory ./, Framework Flask, redeploy. Revisar / y /api/health. Los datos externos dependen de la disponibilidad de cada API.
